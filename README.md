@@ -8,7 +8,7 @@ Most people think that it is best to stick with your original choice, or that th
 
 Check out this project to see for yourself!
 
-**Stack used**: JavaScript - React - CSS
+**Stack used**: JavaScript - React - CSS - Netlify
 
 ## The brief
 
@@ -30,6 +30,8 @@ Most of the files and folders in this repository are React-generated files. The 
 - The main component with the game logic is /src/components/game.js.
 
 ## How to install this project
+
+You can see this project in action live at: https://monte-hall.netlify.app/. To play around with the code yourself, follow these steps:
 
 1. Clone the repository on Github into a directory of your choice.
 2. If you don't already have Npm installed, go ahead and do that first.
